@@ -1,6 +1,10 @@
 ## Getting Started
 
-Questo progetto contiene un'implentazione Java del gioco degli scacchi.
+This repository contains a project by https://github.com/amir650/BlackWidow-Chess that I'm using to learn Java.
+
+For the video lessons please refer to https://github.com/amir650/BlackWidow-Chess
+
+This repository is public just to allow the SonarQube analysis.
 
 ## Folder Structure
 
